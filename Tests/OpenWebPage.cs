@@ -11,7 +11,7 @@ namespace Selenium_Framework.Tests
     {
         private IWebDriver driver = null;
         private string keywordToSearch = "javatpoint tutorials";
-        private Home home = null;
+        private Home  home = null;
         private String tempSrc = "";
 
         [Fact]
